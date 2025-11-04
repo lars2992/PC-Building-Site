@@ -1,1 +1,1 @@
-# PC-Building-Site
+# PC-Building-Site - учебный проект.
